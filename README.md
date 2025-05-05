@@ -2,13 +2,11 @@ Hi 👋 My name is Alexander Brakas
 =================================
 
 Software Developer
-
-Aspiring Machine Learning Engineer
 ------------------
 
 * 🌍  I'm based in Mississauga
 * ✉️  You can contact me at [abrakas@outlook.com](mailto:abrakas@outlook.com)
-* 🧠  I'm learning Machine learning
+* 🧠  Aspiring Machine learning engineer
 
 ### Skills
 
