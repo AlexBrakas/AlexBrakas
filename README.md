@@ -1,6 +1,8 @@
 Hi 👋 My name is Alexander Brakas
 =================================
 
+![profile view count](https://komarev.com/ghpvc/?username=AlexBrakas)
+
 Software Developer
 ------------------
 
