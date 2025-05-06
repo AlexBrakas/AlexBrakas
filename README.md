@@ -19,7 +19,7 @@ Software Developer
 
 ### Currently working on
 
-[<img src="assets/newpaper.png" alt="newspaper" height="150px">](https://github.com/AlexBrakas/Fake-news-detector)
+[<img src="assets/newspaper.png" alt="newspaper" height="150px">](https://github.com/AlexBrakas/Fake-news-detector)
 
 <!-- 
 assets credits:
