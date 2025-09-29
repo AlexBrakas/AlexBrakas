@@ -20,7 +20,7 @@ Software Developer
 ### Currently working on
 [<img src="assets/newspaper.png" alt="newspaper" height="150px">](https://github.com/AlexBrakas/Fake-news-detector)
 
-[<img src="assets/neural net.png" alt="neural network" height="150px">](https://github.com/AlexBrakas/MiniTensor)
+[<img src="assets/neuralnet.png" alt="neural network" height="150px">](https://github.com/AlexBrakas/MiniTensor)
 
 <!-- 
 assets credits:
