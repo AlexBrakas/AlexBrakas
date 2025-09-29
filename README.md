@@ -18,13 +18,16 @@ Software Developer
 </p>
 
 ### Currently working on
-Finalizing details of next project
-<!-- [<img src="assets/newspaper.png" alt="newspaper" height="150px">](https://github.com/AlexBrakas/Fake-news-detector) -->
+[<img src="assets/newspaper.png" alt="newspaper" height="150px">](https://github.com/AlexBrakas/Fake-news-detector)
+
+[<img src="assets/neural net.png" alt="neural network" height="150px">](https://github.com/AlexBrakas/MiniTensor)
 
 <!-- 
 assets credits:
 Newpaper.png: https://www.flaticon.com/free-icon/newspaper_4363382
+neuralnet.png https://www.flaticon.com/free-icon/deep-learning_8637101
 -->
+
 
 ### Badges
 
